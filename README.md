@@ -68,3 +68,15 @@ This tray is a design of the [Antwerp Design Factory](https://antwerpdesignfacto
 A research group of the [department of product development](https://www.uantwerpen.be/nl/studeren/aanbod/alle-opleidingen/productontwikkeling-studeren/) at the [University of Antwerp](https://www.uantwerpen.be/nl/studeren/aanbod/alle-opleidingen/productontwikkeling-studeren/).
 
 The design is released under a [Creative Commons Attribution Share Alike 4.0 International licence](LICENCE). So you are free to share and modify this design. May even use it for commercial use. But, are not allowed to patent the design and are required to attribute our work when sharing.
+---
+
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
