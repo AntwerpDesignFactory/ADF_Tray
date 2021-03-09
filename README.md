@@ -10,7 +10,7 @@ To speed up the vaccination process, preparation of the vaccine syringes is done
 At the moment, hospitals and vaccination centres often use so-called ‘kidney dish’ to collect and transport syringes. Kidney dishes are used for various medical applications; however, this bowl is not always the best solution. Syringes are mixed up which makes it difficult to take out one, because of this, precious time is lost, and it can lead to administering errors. Healthcare organisations were looking for a better alternative to transport the vaccine syringes. 
 
 ## The design
-[![IMAGE ALT TEXT](https://img.youtube.com/vi/rdpCua8XM-c/0.jpg)](https://www.youtube.com/watch?v=rdpCua8XM-c "ADF - Vaccin tray design")
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/rdpCua8XM-c/0.jpg)](https://www.youtube.com/watch?v=rdpCua8XM-c "ADF - Vaccin tray design"){:target="_blank"}
 
 - It fits all syringes we so far have seen selected for COVID-19 vaccine applications. Ranging from 6 to 11 mm diameter and volumes of 1 to 2 ml.
 - The Tray is designed to hold the syringes of one vial of Moderna vaccine (11 doses), one vial AstraZeneca vaccine (8 to 10 doses) and two vials of Pfizer vaccine (two times 6 doses).
